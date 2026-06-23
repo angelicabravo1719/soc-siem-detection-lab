@@ -169,37 +169,37 @@ Dashboards provide analysts with a rapid method of identifying anomalies and pri
 
 ### Screenshot 1
 
-**01_dashboard_creation.png**
+**dashboard_creation.png**
 
 Creation of the Windows Security Monitoring Dashboard.
 
 ### Screenshot 2
 
-**02_successful_logons_panel.png**
+**successful_logons_panel.png**
 
 Single-value visualization showing successful logon activity.
 
 ### Screenshot 3
 
-**03_failed_logons_panel.png**
+**failed_logons_panel.png**
 
 Single-value visualization showing failed logon activity.
 
 ### Screenshot 4
 
-**04_failed_logons_by_account.png**
+**failed_logons_by_account.png**
 
 Bar chart displaying failed logon attempts grouped by account.
 
 ### Screenshot 5
 
-**05_authentication_activity_timeline.png**
+**authentication_activity_timeline.png**
 
 Timeline visualization comparing successful and failed authentication events.
 
 ### Screenshot 6
 
-**06_complete_security_dashboard.png**
+**complete_security_dashboard.png**
 
 Completed Windows Security Monitoring Dashboard displaying all panels.
 
